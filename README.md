@@ -8,8 +8,8 @@
  - Product-specific criticism
    - [Proctorio](proctorio/README.md)
    - [ProctorU](proctoru/README.md)
- - User stories
- - Signatures
+ - [User stories](https://github.com/oofdere/onproctoring/labels/user%20account)
+ - [Signatures](https://github.com/oofdere/onproctoring/labels/signature)
 
 # Information about this project
 This repository serves multiple purposes:
@@ -20,11 +20,11 @@ This repository serves multiple purposes:
 5. Protesting and protecting against the gross misuse of DMCA to take down valid criticism based on public information
 
 To help, please:
-1. **Sign this letter** - Click here to sign this letter.
+1. **Sign this letter** - [Click here](https://github.com/oofdere/onproctoring/issues/new?assignees=&labels=signature&template=signature.md&title=Signature+from+%3CUSERNAME%3E) to sign this letter.
 2. **Share this letter** - Tell anyone you know who might care about this.
 3. **Fork this repository** - This makes a copy of the repository on your account, so that even if this copy of it gets taken down, your copy will remain up.
 4. **Contribute** - We need evidence of misdoings, personal accounts from test-takers and professors, and general spelling/grammar and fact checks. Translations are very much welcomed as well.
-5. **Document** - Documentation on using git to contribute, archive content, etc. written/recorded for complete beginners are needed to io increase participation.
+5. **Document** - Documentation on using git to contribute, [archive content](archival.md), etc. written/recorded for complete beginners are needed to increase participation.
 
 ## Code of Conduct
 This project uses the [Creator's Code](https://github.com/Xe/creators-code), which can be viewed at [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md), as its code of conduct.
