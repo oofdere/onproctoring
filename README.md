@@ -9,7 +9,7 @@
    - [Proctorio](proctorio/README.md)
    - [ProctorU](proctoru/README.md)
  - [User stories](https://github.com/oofdere/onproctoring/labels/user%20account)
- - [Signatures](https://github.com/oofdere/onproctoring/labels/signature)
+ - [Signatures](https://github.com/oofdere/onproctoring/issues?q=label%3Asignature+is%3Aclosed)
 
 # Information about this project
 This repository serves multiple purposes:
