@@ -20,6 +20,6 @@ But that last one is particularly baffling. You could argue that perhaps I'm exc
 ## False Advertising
 ![Section of proctorio.com showing organizations that use it.](trusted_by_top_organizations.png)
 The above screenshot from proctorio.com is from 2/5/2021, and contains institutions that have, as far as we know, stopped using Proctorio.
- - Baylor University announced in August 2020 that they would discontinue its usage starting with the Fall 2020 semester, but is still listed. (https://twitter.com/Linkletter/status/1355736367880265729)
+ - Baylor University announced in August 2020 that they would discontinue its usage starting with the Fall 2020 semester, but is still listed. (https://twitter.com/Linkletter/status/1355736367880265729 | https://www.baylor.edu/library/news.php?action=story&story=219803)
  - According to Business Insider, Amazon dropped Proctorio in 2016, but is still listed here. (https://twitter.com/Linkletter/status/1355990617461932035 | https://www.businessinsider.com/amazons-tough-online-job-interview-process-2016-12)
 
