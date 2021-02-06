@@ -15,3 +15,5 @@ assignees: ''
 **Institution/Workplace:** 
 
 *Feel free to write at length about why you're signing and your experiences with proctoring software here.*
+
+**Please close the issue after sumbitting for the signature to be counted.** *If you don't someone else will get to it eventually, but it's less friction on both sides if you do.*
