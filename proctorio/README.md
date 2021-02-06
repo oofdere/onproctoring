@@ -18,4 +18,4 @@ You might need to pay for Proctorio so it's not all that shocking that the first
 But that last one is particularly baffling. You could argue that perhaps I'm exchanging exam info over one of these mediums, but that doesn't mean a professor nor Proctorio should have access to those, even on suspicion. This is effectively wiretapping, without the warrant. Proctorio is a police force without regulation.
 
 ## False Advertising
-As of 2/4/2021, Baylor University is still listed on Proctorio's homepage, despite them announcing in August 2020 that they would discontinue its usage starting with the Fall 2021 semester. (https://twitter.com/Linkletter/status/1355736367880265729)
+As of 2/4/2021, Baylor University is still listed on Proctorio's homepage, despite them announcing in August 2020 that they would discontinue its usage starting with the Fall 2020 semester. (https://twitter.com/Linkletter/status/1355736367880265729)
